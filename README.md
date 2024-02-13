@@ -1,0 +1,1 @@
+# Fertilizer-Recommendation-System-for-Disease-Prediction
